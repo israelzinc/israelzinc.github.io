@@ -1,14 +1,14 @@
 # Code Competition brush up
 During this pandemic my girlfriend decided to learn how to program. After teaching some basics, I decided to brush up my skills and revisit an old passion I had, coding competitions. I've actually never had much time to practice what I've learned during my college time, and I always wanted to catch up (The coding competition classes were on Saturday, which conflicted with my English classes).
 
-## The return
+### The return
 Decided to make a slow return, I found the google kickstart competition. It is an entry-level competition for beginners. Seemed like an ideal one.
 
-## My first problem in years
+### My first problem in years
 The first problem I had was about finding how many houses from a list I could buy with a determined budget. This one was simple and I started to get cocky, unfortunately (or fortunately), the second problem was not so kind.
 
-## The second problem
+### The second problem
 The second problem of the competition was related to take plates from piles that have a beauty quantitation. The problem resembled an binary knapsack problem and seemed like an easy win with Dinamic Programming (DP) but...I haven't solved a DP problem in ages. I must admit it took more time to solve than I expected, but I finally made it (although I still need to find why I'm exceeding the limit time).
 
-# The third problem
+### The third problem
 To be continued...
